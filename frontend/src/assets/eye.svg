@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <symbol id="watch-icon" viewBox="0 0 24 24">
+    <!-- Outer Eye Shape (Ellipse) -->
+    <path d="M4 12c0-4.41 3.59-8 8-8s8 3.59 8 8-3.59 8-8 8-8-3.59-8-8z" />
+    <!-- Pupil (Circle) -->
+    <path d="M12 9c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3z" class="pupil" />
+  </symbol>
+</svg>
